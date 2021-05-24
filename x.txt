@@ -4,8 +4,5 @@ sdkhalj
 asdfsad
 saf
 fas
-<<<<<<< HEAD
-
 111111
-=======
->>>>>>> 145a11b3a93be4d5cde6aa467f254e030e5d13b0
+
